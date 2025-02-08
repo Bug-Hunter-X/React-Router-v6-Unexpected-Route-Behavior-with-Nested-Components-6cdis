@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in React Router v6 related to unexpected behavior when navigating between routes, particularly those with nested components or dynamic segments.  The `bug.js` file showcases the problematic code, while `bugSolution.js` provides a corrected version with explanations.
